@@ -1,0 +1,15 @@
+{
+  "Engineering East" : {
+    "rooms" : {
+      "ASME" : {
+        "occupancy" : 2
+      },
+      "IEEE" : {
+        "occupancy" : 4
+      },
+      "Senior Design" : {
+        "occupancy" : 3
+      }
+    }
+  }
+}
