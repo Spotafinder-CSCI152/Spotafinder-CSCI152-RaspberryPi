@@ -1,0 +1,4 @@
+b'tempF: 88.904000\r\n'
+b'tempC: 31.630000\r\n'
+b'humidityLinear: 39.301001\r\n'
+b'humidityTrue: 39.997416\r\n
